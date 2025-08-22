@@ -1,0 +1,4 @@
+../Core/Src/pca9538.c:13:6:PCA9538_Init	32	static
+../Core/Src/pca9538.c:28:6:PCA9538_WriteConfigReg	32	static
+../Core/Src/pca9538.c:32:6:PCA9538_WriteOutputReg	32	static
+../Core/Src/pca9538.c:36:9:PCA9538_ReadInputReg	32	static

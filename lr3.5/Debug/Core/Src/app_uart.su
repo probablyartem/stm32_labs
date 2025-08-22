@@ -1,0 +1,9 @@
+../Core/Src/app_uart.c:43:6:MX_USART6_UART_Init	40	static
+../Core/Src/app_uart.c:84:6:HAL_UART_MspInit	48	static
+../Core/Src/app_uart.c:117:6:HAL_UART_MspDeInit	16	static
+../Core/Src/app_uart.c:142:6:APP_UART_IRQHandler	8	static
+../Core/Src/app_uart.c:147:6:APP_UART_RxCpltCallback	24	static
+../Core/Src/app_uart.c:161:6:APP_UART_Process	16	static
+../Core/Src/app_uart.c:174:6:APP_UART_SendString	16	static
+../Core/Src/app_uart.c:178:13:ProcessChar	112	static
+../Core/Src/app_uart.c:260:13:SendUnknownChar	88	static

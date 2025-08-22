@@ -1,0 +1,8 @@
+../Core/Src/gpio.c:32:6:Button_Update	5
+../Core/Src/gpio.c:57:9:Button_WasPressed	2
+../Core/Src/gpio.c:66:10:getPinByColor	5
+../Core/Src/gpio.c:79:9:isLight	1
+../Core/Src/gpio.c:84:6:turnOffAllLights	1
+../Core/Src/gpio.c:89:6:turnOnLight	1
+../Core/Src/gpio.c:95:6:setLight	2
+../Core/Src/gpio.c:122:6:MX_GPIO_Init	1

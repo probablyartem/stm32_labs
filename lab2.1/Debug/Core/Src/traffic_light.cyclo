@@ -1,0 +1,14 @@
+../Core/Src/traffic_light.c:45:13:LED_OffAll	1
+../Core/Src/traffic_light.c:52:13:LED_SetRed	1
+../Core/Src/traffic_light.c:57:13:LED_SetYellow	1
+../Core/Src/traffic_light.c:62:13:LED_SetGreen	1
+../Core/Src/traffic_light.c:70:6:TrafficLight_Init	1
+../Core/Src/traffic_light.c:96:6:Button_Update	5
+../Core/Src/traffic_light.c:117:16:Button_WasPressed	2
+../Core/Src/traffic_light.c:129:6:TrafficLight_Update	15
+../Core/Src/traffic_light.c:223:6:TrafficLight_SetMode	2
+../Core/Src/traffic_light.c:229:9:TrafficLight_GetMode	1
+../Core/Src/traffic_light.c:237:6:TrafficLight_SetRedTimeoutSec	3
+../Core/Src/traffic_light.c:247:10:TrafficLight_GetRedTimeoutSec	1
+../Core/Src/traffic_light.c:255:16:TrafficLight_GetState	1
+../Core/Src/traffic_light.c:263:13:TrafficLight_GetStateString	5

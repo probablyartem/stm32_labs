@@ -1,0 +1,8 @@
+../Core/Src/gpio.c:32:6:Button_Update	16	static
+../Core/Src/gpio.c:57:9:Button_WasPressed	4	static
+../Core/Src/gpio.c:66:10:getPinByColor	16	static
+../Core/Src/gpio.c:79:9:isLight	24	static
+../Core/Src/gpio.c:84:6:turnOffAllLights	8	static
+../Core/Src/gpio.c:89:6:turnOnLight	16	static
+../Core/Src/gpio.c:95:6:setLight	16	static
+../Core/Src/gpio.c:122:6:MX_GPIO_Init	48	static

@@ -1,0 +1,4 @@
+../Core/Src/keypad.c:34:6:Keypad_Init	8	static
+../Core/Src/keypad.c:54:16:Keypad_ScanRaw	32	static
+../Core/Src/keypad.c:111:6:Keypad_Update	16	static
+../Core/Src/keypad.c:146:9:Keypad_GetLastPressed	16	static
